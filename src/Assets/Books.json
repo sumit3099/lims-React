@@ -1,0 +1,1434 @@
+{
+"booksArray":[
+    {
+        "isbn":"0596517742",
+        "details":{
+             "title":"JavaScript: The Good Parts",
+             "author":"Douglas Crockford",
+             "category":"javascript",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"10",
+	     "url" : "https://covers.oreillystatic.com/images/9780596517748/lrg.jpg",
+	     "year":"2008"
+       }
+
+    },
+
+    {
+        "isbn":"1617293121",
+        "details":{
+             "title":"Angular 2 Development with TypeScript",
+             "author":"Yakov Fain",
+             "category":"angular",
+             "publisher":"HANNING",
+             "rating":"3",
+             "copies":"20",
+             "url" : "https://images-na.ssl-images-amazon.com/images/I/41YpfcnShoL._SX396_BO1,204,203,200_.jpg",
+	     "year":"2016"
+       }
+
+    },
+
+    {
+        "isbn":"1491954620",
+        "details":{
+             "title":"Learning React: Functional Web Development ",
+             "author":"Alex Banks",
+             "category":"react",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"30",
+	     "url" : "https://images-na.ssl-images-amazon.com/images/I/51Fap9EgCGL._SX379_BO1,204,203,200_.jpg",
+	     "year" : "2017"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1491924462",
+        "details":{
+             "title":"You Don't Know JS: Up & Going",
+             "author":"Kyle Simpson",
+             "category":"javascript",
+             "publisher":"publisher1",
+             "rating":"4",
+             "copies":"40",
+	     "url":"https://covers.oreillystatic.com/images/0636920039303/lrg.jpg",
+	     "year":"2015"
+       }
+
+    },
+    
+  
+    {
+        "isbn":"1484223063",
+        "details":{
+             "title":"Pro Angular",
+             "author":"Adam Freeman",
+             "category":"angular",
+             "publisher":"A Press",
+             "rating":"5",
+             "copies":"10",
+	     "url":"https://images.springer.com/sgw/books/medium/9781484223062.jpg",
+	     "year":"2017"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1491931825",
+        "details":{
+             "title":"React: Up & Running",
+             "author":"Stoyan Stefanov",
+             "category":"react",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"20",
+	     "url":"https://covers.oreillystatic.com/images/0636920042266/lrg.jpg",
+	     "year":"2016"
+       }
+
+    },
+
+     {
+        "isbn":"1593277571",
+        "details":{
+             "title":"Understanding ECMAScript 6",
+             "author":"Nicholas C. Zakas",
+             "category":"javascript",
+             "publisher":"Nicholas",
+             "rating":"5",
+             "copies":"4",
+	     "url":"https://target.scene7.com/is/image/Target/51641959?wid=520&hei=520&fmt=pjpeg",
+	     "year":"2016"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1430264489",
+        "details":{
+             "title":"Pro AngularJS",
+             "author":"Adam Freeman",
+             "category":"angular",
+             "publisher":"A Press",
+             "rating":"4",
+             "copies":"13",
+	     "url":"https://ebook-dl.com/pictures/books/pro-angularjs-adam-freeman(www.ebook-dl.com)_Large.jpg",
+	     "year":"2014"
+       }
+
+    },
+
+    
+    {
+        "isbn":"0134546318",
+        "details":{
+             "title":"Learning React",
+             "author":"Kirupa Chinnathambi",
+             "category":"react",
+             "publisher":"Kiru",
+             "rating":"5",
+             "copies":"20",
+	     "url":"https://covers.oreillystatic.com/images/0636920049579/lrg.jpg",
+	     "year":"2017"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1617292850",
+        "details":{
+             "title":"Secrets of the JavaScript Ninja",
+             "author":"John Resig",
+             "category":"javascript",
+             "publisher":"Minion",
+             "rating":"5",
+             "copies":"4",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51UYwOhvQPL.jpg",
+	     "year":"2008"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1118832078",
+        "details":{
+             "title":"Professional AngularJS",
+             "author":"Valeri Karpov",
+             "category":"angular",
+             "publisher":"Karpov",
+             "rating":"3",
+             "copies":"7",
+	     "url":"https://n1.sdlcdn.com/imgs/b/t/2/Professional-Angularjs-SDL598548986-1-00b5b.jpg",
+	     "year":"2014"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1617293342",
+        "details":{
+             "title":"React Quickly: Painless web apps",
+             "author":"Azat Mardan",
+             "category":"react",
+             "publisher":"Manning",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/5159foIB0EL._SX258_BO1,204,203,200_.jpg",
+	     "year":"2017"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1593275404",
+        "details":{
+             "title":"The Principles of Object-Oriented JavaScript ",
+             "author":"Nicholas C. Zakas",
+             "category":"javascript",
+             "publisher":"Nicholas",
+             "rating":"4",
+             "copies":"10",
+	     "url":"https://ebook-dl.com/pictures/books/the_principles_of_object_oriented_javascript_nicholas_c_zakas(www.ebook-dl.com)_Large.jpg",
+             "year":"2014"
+      }
+
+    },
+
+    
+    {
+        "isbn":"1491901942",
+        "details":{
+             "title":"AngularJS: Up and Running",
+             "author":"Shyam Seshadri",
+             "category":"angular",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"15",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51rYlMsf49L._SX379_BO1,204,203,200_.jpg",
+	     "year":"2013"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1680502633",
+        "details":{
+             "title":"React for Real",
+             "author":"Ludovico Fischer",
+             "category":"react",
+             "publisher":"PYG",
+             "rating":"5",
+             "copies":"20",
+	     "url":"https://www.packtpub.com/sites/default/files/2497OS_B05743_Learning%20Web%20Development%20with%20React%20and%20Bootstrap.png",
+	     "year":"2017"
+       }
+    },
+    {
+    "isbn":"9332549449",
+        "details":{
+             "title":"C Programming Language",
+             "author":"Brian W.Kernighan Dennis M.Richie",
+             "category":"C",
+             "publisher":"ANSI C",
+             "rating":"5",
+             "copies":"10",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/5109Hsj5UZL._SX352_BO1,204,203,200_.jpg",
+	     "year":"1978"
+    }
+    },
+    {
+    "isbn":"8183331637",
+        "details":{
+             "title":"Let Us C",
+             "author":"Yashavant Kanetkar",
+             "category":"C",
+             "publisher":"BPB",
+             "rating":"5",
+             "copies":"30",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51NuHATrs8L._SX354_BO1,204,203,200_.jpg",
+    	     "year":"2002"
+	}
+    },
+    {
+    "isbn":"0070648227",
+        "details":{
+             "title":"Programming in ANSI C",
+             "author":"E BALAGURUSAMY",
+             "category":"C",
+             "publisher":"ANSI C",
+             "rating":"5",
+             "copies":"10",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/416GXhpQZ9L._SX373_BO1,204,203,200_.jpg",
+	     "year":"2002"
+    }
+    },
+    {
+    "isbn":"0072121246",
+        "details":{
+             "title":"The Complete Reference in C 4th Edition ",
+             "author":"Herbert Schildt",
+             "category":"C",
+             "publisher":"The Complete Reference",
+             "rating":"4",
+             "copies":"7",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51Kvjm-Dt8L._SX396_BO1,204,203,200_.jpg",
+	     "year":"2000"
+    }
+    },
+    {
+    "isbn":"0071808558",
+        "details":{
+             "title":"Java:The Complete Reference 9th Edition ",
+             "author":"Herbert Schildt",
+             "category":"Java",
+             "publisher":"The Complete Reference",
+             "rating":"4",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41en%2Bsva3hL._SX402_BO1,204,203,200_.jpg",
+	     "year":"2014"
+    }
+    },
+    {
+    "isbn":"0596009208",
+        "details":{
+             "title":"Head First Java ",
+             "author":"Kathy Sierra",
+             "category":"Java",
+             "publisher":"O Rielly",
+             "rating":"4",
+             "copies":"4",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SX430_BO1,204,203,200_.jpg",
+	     "year":"2003"
+    }
+    },
+    {
+    "isbn":"1539397830",
+        "details":{
+             "title":"Learn Java in One Day ",
+             "author":"Jamie Chan",
+             "category":"Java",
+             "publisher":"Learn Coding",
+             "rating":"4",
+             "copies":"6",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51rLAIl60CL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2017"
+    }
+    },
+    {
+    "isbn":"1259589317",
+        "details":{
+             "title":"Java A Beginner's Guide 7th Edition",
+             "author":"Herbert Schildt",
+             "category":"Java",
+             "publisher":"Oracle",
+             "rating":"5",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41SfK-5%2BD9L._SX397_BO1,204,203,200_.jpg",
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"0321714114",
+        "details":{
+             "title":"C++ Primer",
+             "author":"Stanley B.Lippman josee Lpjoie Burbara E.Moo",
+             "category":"C++",
+             "publisher":"Primer",
+             "rating":"4",
+             "copies":"8",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41ArJlUM%2B2L._SX378_BO1,204,203,200_.jpg",
+             "year":"1989"
+    }
+    },
+    {
+    "isbn":"0321563842",
+        "details":{
+             "title":"The C++",
+             "author":"BJARNE STROUSTRUP",
+             "category":"C++",
+             "publisher":"Creator",
+             "rating":"5",
+             "copies":"2",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51KEqIsBa4L._SX370_BO1,204,203,200_.jpg",
+	     "year":"1989"
+    }
+    },
+    {
+    "isbn":"1491903995",
+        "details":{
+             "title":"Effective Modern C++",
+             "author":"Scott Meyers",
+             "category":"C++",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"4",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51eFBpqPSLL._SX379_BO1,204,203,200_.jpg",
+	     "year":"2014"
+    }
+    },
+    {
+    "isbn":"0321958310",
+        "details":{
+             "title":"A Tour of C++",
+             "author":"Bjarne Sctroustrup",
+             "category":"C++",
+             "publisher":"O'reilly",
+             "rating":"5",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51xVLzxX4vL._SX370_BO1,204,203,200_.jpg",
+	     "year":"2013"
+    }
+    },
+    {
+    "isbn":"1118008188",
+        "details":{
+             "title":"HTML & CSS",
+             "author":"Jon Duckett",
+             "category":"Html & Css",
+             "publisher":"Css Programming",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41R9Qctt%2BbL._SX396_BO1,204,203,200_.jpg",			
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"1508673873",
+        "details":{
+             "title":"A Smarter Way to Learn HTML & CSS",
+             "author":"Mark Myers",
+             "category":"Html & Css",
+             "publisher":"O'reilly",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51RgT-XfErL._SX348_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1511617993",
+        "details":{
+             "title":"Html QuickStart Guide",
+             "author":"ClydeBank Technology",
+             "category":"Html & Css",
+             "publisher":"ClydeBank Technology",
+             "rating":"4",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/5121AshG3tL._SX399_BO1,204,203,200_.jpg",
+	     "year":"2002"
+    }
+    },
+    {
+    "isbn":"1118289389",
+        "details":{
+             "title":"HTML5 and CSS3",
+             "author":"Andy Harris",
+             "category":"Html & Css",
+             "publisher":"Making Everything Easier",
+             "rating":"4",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51Mzi9OV3YL._SX396_BO1,204,203,200_.jpg",
+	     "year":"2014"
+    }
+    },
+    {
+    "isbn":"1118531648",
+        "details":{
+             "title":"Javascript and Jquery",
+             "author":"John Duckett",
+             "category":"Jquery",
+             "publisher":"JavaScript Programming",
+             "rating":"5",
+             "copies":"14",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41Z6LTD8QmL._AC_US218_.jpg",
+	     "year":"2013"
+    }
+    },
+    {
+    "isbn":"1514621820",
+        "details":{
+             "title":"A Smarter Way to Learn jQuery",
+             "author":"Mark Myers",
+             "category":"Jquery",
+             "publisher":"Mark Myers",
+             "rating":"4",
+             "copies":"11",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41KD6ppOK6L._SX348_BO1,204,203,200_.jpg",
+	     "year":"2016"
+    }
+    },
+    {
+    "isbn":"1449397220",
+        "details":{
+             "title":"jQuery Pocket Reference: Read Less, Learn More",
+             "author":"David Flanagan",
+             "category":"Jquery",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"7",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41SnmZRzptL._SX302_BO1,204,203,200_.jpg",
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"1491947071",
+        "details":{
+             "title":"Javascript and Jquery",
+             "author":"David Sawyer McFarland",
+             "category":"Jquery",
+             "publisher":"O'Reilly",
+             "rating":"3",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51OZ5LGSO9L._SX379_BO1,204,203,200_.jpg",
+	     "year":"2013"
+    }
+    },
+    {
+    "isbn":"1593276034",
+        "details":{
+             "title":"Python Crash Course",
+             "author":"Eric Matthes",
+             "category":"Python",
+             "publisher":"William Pollock",
+             "rating":"5",
+             "copies":"16",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51PZ6YIfe9L._SX376_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1449355739",
+        "details":{
+             "title":"Learning Python",
+             "author":"Mark lutz",
+             "category":"Python",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/515iBchIIzL._SX379_BO1,204,203,200_.jpg",
+	     "year":"1999"
+    }
+    },
+    {
+    "isbn":"1449357016",
+        "details":{
+             "title":"Python Pocket Reference",
+             "author":"Mark lutz",
+             "category":"Python",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/517k0XB9ogL._SX302_BO1,204,203,200_.jpg",
+	     "year":"1998"
+    }
+    },
+    {
+    "isbn":"1449340377",
+        "details":{
+             "title":"Python Cookbook",
+             "author":"David Beuzkey",
+             "category":"Python",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"6",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51hFtDvqgfL._SX379_BO1,204,203,200_.jpg",
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"1449340377",
+        "details":{
+             "title":"Python Cookbook",
+             "author":"David Beuzkey",
+             "category":"Python",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"6",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51hFtDvqgfL._SX379_BO1,204,203,200_.jpg",
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"1518800270",
+        "details":{
+             "title":"Learn C# in one day",
+             "author":"Jamie Chan",
+             "category":"C#",
+             "publisher":"PaperBack",
+             "rating":"5",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41X3IQav9fL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1509301041",
+        "details":{
+             "title":"Microsoft Visual C# Step by Step",
+             "author":"John Sharp",
+             "category":"C#",
+             "publisher":"Microsoft",
+             "rating":"4",
+             "copies":"7",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41N-t2baooL._SX408_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1484213339",
+        "details":{
+             "title":"C# 6.0 and the .Net 4.6 Framework",
+             "author":"Andrew Troelsen",
+             "category":"C#",
+             "publisher":"Apress",
+             "rating":"5",
+             "copies":"12",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51uK4WeN8QL._SX364_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1491927069",
+        "details":{
+             "title":"C# 6.0 in a Nutshell: The Definitive Reference 6th Edition",
+             "author":"Joseph Albahari & Ben Albahari",
+             "category":"C#",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"8",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/514HLioNRhL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1547016280",
+        "details":{
+             "title":"Data Analytics For beginners",
+             "author":"Tech World",
+             "category":"DAS",
+             "publisher":"Tech World",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51iCpV-ex4L._SX322_BO1,204,203,200_.jpg",
+	     "year":"2016"
+    }
+    },
+    {
+    "isbn":"1547089296",
+        "details":{
+             "title":"Data Analytics",
+             "author":"Richard Dorsey",
+             "category":"DAS",
+             "publisher":"Richard Dorsey",
+             "rating":"4",
+             "copies":"10",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41Sy5GMfInL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2017"
+    }
+    },
+    {
+    "isbn":"1547156996",
+        "details":{
+             "title":"Data Analytics",
+             "author":"James Fahl",
+             "category":"DAS",
+             "publisher":"PaperBack",
+             "rating":"4",
+             "copies":"1",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51OcOQDNItL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2017"
+    }
+    },
+    {
+    "isbn":"1514626639",
+        "details":{
+             "title":"Data Analytics",
+             "author":"Robert Keane",
+             "category":"DAS",
+             "publisher":"kindle Edition",
+             "rating":"4",
+             "copies":"1",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51CzAivwBlL._AC_US218_.jpg",
+	     "year":"2017"
+    }
+    },
+    {
+    "isbn":"1514626782",
+        "details":{
+             "title":"MySQL Explained",
+             "author":"Andrew Comeau",
+             "category":"MySQL",
+             "publisher":"OSTraining",
+             "rating":"5",
+             "copies":"7",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51nI%2BIfmC7L.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"0596008642",
+        "details":{
+             "title":"Learning MySQL",
+             "author":"Hugh E.Williams",
+             "category":"MySQL",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"20",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51fi1HhsQ-L._SX381_BO1,204,203,200_.jpg",
+	     "year":"2006"
+    }
+    },
+    {
+    "isbn":"1449314286",
+        "details":{
+             "title":"High Performance MySQL",
+             "author":"Baron Schwartz",
+             "category":"MySQL",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"5",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51gSnIy841L._SX382_BO1,204,203,200_.jpg",
+	     "year":"2008"
+    }
+    },
+    {
+    "isbn":"0321833877",
+        "details":{
+             "title":"MySQL Developers Library",
+             "author":"Paul DuBois",
+             "category":"MySQL",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"2",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41opWpwzRPL._SX389_BO1,204,203,200_.jpg",
+	     "year":"2013"
+    }
+    },
+        {
+        "isbn":"0596523742",
+        "details":{
+             "title":"JavaScript: The Good Parts",
+             "author":"Douglas Crockford",
+             "category":"javascript",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"10",
+	     "url" : "https://covers.oreillystatic.com/images/9780596517748/lrg.jpg",
+	     "year":"2008"
+       }
+
+    },
+
+    {
+        "isbn":"1617265121",
+        "details":{
+             "title":"Angular 2 Development with TypeScript",
+             "author":"Yakov Fain",
+             "category":"angular",
+             "publisher":"HANNING",
+             "rating":"3",
+             "copies":"20",
+             "url" : "https://images-na.ssl-images-amazon.com/images/I/41YpfcnShoL._SX396_BO1,204,203,200_.jpg",
+	     "year":"2016"
+       }
+
+    },
+
+    {
+        "isbn":"1491954620",
+        "details":{
+             "title":"Learning React: Functional Web Development ",
+             "author":"Alex Banks",
+             "category":"react",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"30",
+	     "url" : "https://images-na.ssl-images-amazon.com/images/I/51Fap9EgCGL._SX379_BO1,204,203,200_.jpg",
+	     "year" : "2017"
+       }
+
+    },
+
+    
+    {
+        "isbn":"149191262",
+        "details":{
+             "title":"You Don't Know JS: Up & Going",
+             "author":"Kyle Simpson",
+             "category":"javascript",
+             "publisher":"publisher1",
+             "rating":"4",
+             "copies":"40",
+	     "url":"https://covers.oreillystatic.com/images/0636920039303/lrg.jpg",
+	     "year":"2015"
+       }
+
+    },
+    
+  
+    {
+        "isbn":"1484123063",
+        "details":{
+             "title":"Pro Angular",
+             "author":"Adam Freeman",
+             "category":"angular",
+             "publisher":"A Press",
+             "rating":"5",
+             "copies":"10",
+	     "url":"https://images.springer.com/sgw/books/medium/9781484223062.jpg",
+	     "year":"2017"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1491231825",
+        "details":{
+             "title":"React: Up & Running",
+             "author":"Stoyan Stefanov",
+             "category":"react",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"20",
+	     "url":"https://covers.oreillystatic.com/images/0636920042266/lrg.jpg",
+	     "year":"2016"
+       }
+
+    },
+
+     {
+        "isbn":"1593274571",
+        "details":{
+             "title":"Understanding ECMAScript 6",
+             "author":"Nicholas C. Zakas",
+             "category":"javascript",
+             "publisher":"Nicholas",
+             "rating":"5",
+             "copies":"4",
+	     "url":"https://target.scene7.com/is/image/Target/51641959?wid=520&hei=520&fmt=pjpeg",
+	     "year":"2016"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1437664489",
+        "details":{
+             "title":"Pro AngularJS",
+             "author":"Adam Freeman",
+             "category":"angular",
+             "publisher":"A Press",
+             "rating":"4",
+             "copies":"13",
+	     "url":"https://ebook-dl.com/pictures/books/pro-angularjs-adam-freeman(www.ebook-dl.com)_Large.jpg",
+	     "year":"2014"
+       }
+
+    },
+
+    
+    {
+        "isbn":"0134554318",
+        "details":{
+             "title":"Learning React",
+             "author":"Kirupa Chinnathambi",
+             "category":"react",
+             "publisher":"Kiru",
+             "rating":"5",
+             "copies":"20",
+	     "url":"https://covers.oreillystatic.com/images/0636920049579/lrg.jpg",
+	     "year":"2017"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1617872850",
+        "details":{
+             "title":"Secrets of the JavaScript Ninja",
+             "author":"John Resig",
+             "category":"javascript",
+             "publisher":"Minion",
+             "rating":"5",
+             "copies":"4",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51UYwOhvQPL.jpg",
+	     "year":"2008"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1118831278",
+        "details":{
+             "title":"Professional AngularJS",
+             "author":"Valeri Karpov",
+             "category":"angular",
+             "publisher":"Karpov",
+             "rating":"3",
+             "copies":"7",
+	     "url":"https://n1.sdlcdn.com/imgs/b/t/2/Professional-Angularjs-SDL598548986-1-00b5b.jpg",
+	     "year":"2014"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1547293342",
+        "details":{
+             "title":"React Quickly: Painless web apps",
+             "author":"Azat Mardan",
+             "category":"react",
+             "publisher":"Manning",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/5159foIB0EL._SX258_BO1,204,203,200_.jpg",
+	     "year":"2017"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1593278704",
+        "details":{
+             "title":"The Principles of Object-Oriented JavaScript ",
+             "author":"Nicholas C. Zakas",
+             "category":"javascript",
+             "publisher":"Nicholas",
+             "rating":"4",
+             "copies":"10",
+	     "url":"https://ebook-dl.com/pictures/books/the_principles_of_object_oriented_javascript_nicholas_c_zakas(www.ebook-dl.com)_Large.jpg",
+             "year":"2014"
+      }
+
+    },
+
+    
+    {
+        "isbn":"1491907642",
+        "details":{
+             "title":"AngularJS: Up and Running",
+             "author":"Shyam Seshadri",
+             "category":"angular",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"15",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51rYlMsf49L._SX379_BO1,204,203,200_.jpg",
+	     "year":"2013"
+       }
+
+    },
+
+    
+    {
+        "isbn":"1680122633",
+        "details":{
+             "title":"React for Real",
+             "author":"Ludovico Fischer",
+             "category":"react",
+             "publisher":"PYG",
+             "rating":"5",
+             "copies":"20",
+	     "url":"https://www.packtpub.com/sites/default/files/2497OS_B05743_Learning%20Web%20Development%20with%20React%20and%20Bootstrap.png",
+	     "year":"2017"
+       }
+    },
+    {
+    "isbn":"9332547649",
+        "details":{
+             "title":"C Programming Language",
+             "author":"Brian W.Kernighan Dennis M.Richie",
+             "category":"C",
+             "publisher":"ANSI C",
+             "rating":"5",
+             "copies":"10",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/5109Hsj5UZL._SX352_BO1,204,203,200_.jpg",
+	     "year":"1978"
+    }
+    },
+    {
+    "isbn":"8183333237",
+        "details":{
+             "title":"Let Us C",
+             "author":"Yashavant Kanetkar",
+             "category":"C",
+             "publisher":"BPB",
+             "rating":"5",
+             "copies":"30",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51NuHATrs8L._SX354_BO1,204,203,200_.jpg",
+    	     "year":"2002"
+	}
+    },
+    {
+    "isbn":"0012648227",
+        "details":{
+             "title":"Programming in ANSI C",
+             "author":"E BALAGURUSAMY",
+             "category":"C",
+             "publisher":"ANSI C",
+             "rating":"5",
+             "copies":"10",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/416GXhpQZ9L._SX373_BO1,204,203,200_.jpg",
+	     "year":"2002"
+    }
+    },
+    {
+    "isbn":"00721276246",
+        "details":{
+             "title":"The Complete Reference in C 4th Edition ",
+             "author":"Herbert Schildt",
+             "category":"C",
+             "publisher":"The Complete Reference",
+             "rating":"4",
+             "copies":"7",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51Kvjm-Dt8L._SX396_BO1,204,203,200_.jpg",
+	     "year":"2000"
+    }
+    },
+    {
+    "isbn":"0071808878",
+        "details":{
+             "title":"Java:The Complete Reference 9th Edition ",
+             "author":"Herbert Schildt",
+             "category":"Java",
+             "publisher":"The Complete Reference",
+             "rating":"4",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41en%2Bsva3hL._SX402_BO1,204,203,200_.jpg",
+	     "year":"2014"
+    }
+    },
+    {
+    "isbn":"0596099208",
+        "details":{
+             "title":"Head First Java ",
+             "author":"Kathy Sierra",
+             "category":"Java",
+             "publisher":"O Rielly",
+             "rating":"4",
+             "copies":"4",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SX430_BO1,204,203,200_.jpg",
+	     "year":"2003"
+    }
+    },
+    {
+    "isbn":"1539297830",
+        "details":{
+             "title":"Learn Java in One Day ",
+             "author":"Jamie Chan",
+             "category":"Java",
+             "publisher":"Learn Coding",
+             "rating":"4",
+             "copies":"6",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51rLAIl60CL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2017"
+    }
+    },
+    {
+    "isbn":"1259588317",
+        "details":{
+             "title":"Java A Beginner's Guide 7th Edition",
+             "author":"Herbert Schildt",
+             "category":"Java",
+             "publisher":"Oracle",
+             "rating":"5",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41SfK-5%2BD9L._SX397_BO1,204,203,200_.jpg",
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"0321714814",
+        "details":{
+             "title":"C++ Primer",
+             "author":"Stanley B.Lippman josee Lpjoie Burbara E.Moo",
+             "category":"C++",
+             "publisher":"Primer",
+             "rating":"4",
+             "copies":"8",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41ArJlUM%2B2L._SX378_BO1,204,203,200_.jpg",
+             "year":"1989"
+    }
+    },
+    {
+    "isbn":"0321163842",
+        "details":{
+             "title":"The C++",
+             "author":"BJARNE STROUSTRUP",
+             "category":"C++",
+             "publisher":"Creator",
+             "rating":"5",
+             "copies":"2",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51KEqIsBa4L._SX370_BO1,204,203,200_.jpg",
+	     "year":"1989"
+    }
+    },
+    {
+    "isbn":"1491909995",
+        "details":{
+             "title":"Effective Modern C++",
+             "author":"Scott Meyers",
+             "category":"C++",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"4",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51eFBpqPSLL._SX379_BO1,204,203,200_.jpg",
+	     "year":"2014"
+    }
+    },
+    {
+    "isbn":"0321958300",
+        "details":{
+             "title":"A Tour of C++",
+             "author":"Bjarne Sctroustrup",
+             "category":"C++",
+             "publisher":"O'reilly",
+             "rating":"5",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51xVLzxX4vL._SX370_BO1,204,203,200_.jpg",
+	     "year":"2013"
+    }
+    },
+    {
+    "isbn":"1118008183",
+        "details":{
+             "title":"HTML & CSS",
+             "author":"Jon Duckett",
+             "category":"Html & Css",
+             "publisher":"Css Programming",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41R9Qctt%2BbL._SX396_BO1,204,203,200_.jpg",			
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"1518673873",
+        "details":{
+             "title":"A Smarter Way to Learn HTML & CSS",
+             "author":"Mark Myers",
+             "category":"Html & Css",
+             "publisher":"O'reilly",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51RgT-XfErL._SX348_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1518617993",
+        "details":{
+             "title":"Html QuickStart Guide",
+             "author":"ClydeBank Technology",
+             "category":"Html & Css",
+             "publisher":"ClydeBank Technology",
+             "rating":"4",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/5121AshG3tL._SX399_BO1,204,203,200_.jpg",
+	     "year":"2002"
+    }
+    },
+    {
+    "isbn":"1618289389",
+        "details":{
+             "title":"HTML5 and CSS3",
+             "author":"Andy Harris",
+             "category":"Html & Css",
+             "publisher":"Making Everything Easier",
+             "rating":"4",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51Mzi9OV3YL._SX396_BO1,204,203,200_.jpg",
+	     "year":"2014"
+    }
+    },
+    {
+    "isbn":"1118541648",
+        "details":{
+             "title":"Javascript and Jquery",
+             "author":"John Duckett",
+             "category":"Jquery",
+             "publisher":"JavaScript Programming",
+             "rating":"5",
+             "copies":"14",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41Z6LTD8QmL._AC_US218_.jpg",
+	     "year":"2013"
+    }
+    },
+    {
+    "isbn":"1514821820",
+        "details":{
+             "title":"A Smarter Way to Learn jQuery",
+             "author":"Mark Myers",
+             "category":"Jquery",
+             "publisher":"Mark Myers",
+             "rating":"4",
+             "copies":"11",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41KD6ppOK6L._SX348_BO1,204,203,200_.jpg",
+	     "year":"2016"
+    }
+    },
+    {
+    "isbn":"1449397520",
+        "details":{
+             "title":"jQuery Pocket Reference: Read Less, Learn More",
+             "author":"David Flanagan",
+             "category":"Jquery",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"7",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41SnmZRzptL._SX302_BO1,204,203,200_.jpg",
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"1431947071",
+        "details":{
+             "title":"Javascript and Jquery",
+             "author":"David Sawyer McFarland",
+             "category":"Jquery",
+             "publisher":"O'Reilly",
+             "rating":"3",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51OZ5LGSO9L._SX379_BO1,204,203,200_.jpg",
+	     "year":"2013"
+    }
+    },
+    {
+    "isbn":"1593276035",
+        "details":{
+             "title":"Python Crash Course",
+             "author":"Eric Matthes",
+             "category":"Python",
+             "publisher":"William Pollock",
+             "rating":"5",
+             "copies":"16",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51PZ6YIfe9L._SX376_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1449255739",
+        "details":{
+             "title":"Learning Python",
+             "author":"Mark lutz",
+             "category":"Python",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/515iBchIIzL._SX379_BO1,204,203,200_.jpg",
+	     "year":"1999"
+    }
+    },
+    {
+    "isbn":"1419357016",
+        "details":{
+             "title":"Python Pocket Reference",
+             "author":"Mark lutz",
+             "category":"Python",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/517k0XB9ogL._SX302_BO1,204,203,200_.jpg",
+	     "year":"1998"
+    }
+    },
+    {
+    "isbn":"1449640377",
+        "details":{
+             "title":"Python Cookbook",
+             "author":"David Beuzkey",
+             "category":"Python",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"6",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51hFtDvqgfL._SX379_BO1,204,203,200_.jpg",
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"1449240377",
+        "details":{
+             "title":"Python Cookbook",
+             "author":"David Beuzkey",
+             "category":"Python",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"6",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51hFtDvqgfL._SX379_BO1,204,203,200_.jpg",
+	     "year":"2011"
+    }
+    },
+    {
+    "isbn":"1518500270",
+        "details":{
+             "title":"Learn C# in one day",
+             "author":"Jamie Chan",
+             "category":"C#",
+             "publisher":"PaperBack",
+             "rating":"5",
+             "copies":"3",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41X3IQav9fL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1509303041",
+        "details":{
+             "title":"Microsoft Visual C# Step by Step",
+             "author":"John Sharp",
+             "category":"C#",
+             "publisher":"Microsoft",
+             "rating":"4",
+             "copies":"7",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41N-t2baooL._SX408_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1484214339",
+        "details":{
+             "title":"C# 6.0 and the .Net 4.6 Framework",
+             "author":"Andrew Troelsen",
+             "category":"C#",
+             "publisher":"Apress",
+             "rating":"5",
+             "copies":"12",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51uK4WeN8QL._SX364_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1491427069",
+        "details":{
+             "title":"C# 6.0 in a Nutshell: The Definitive Reference 6th Edition",
+             "author":"Joseph Albahari & Ben Albahari",
+             "category":"C#",
+             "publisher":"O'Reilly",
+             "rating":"4",
+             "copies":"8",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/514HLioNRhL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"1547019280",
+        "details":{
+             "title":"Data Analytics For beginners",
+             "author":"Tech World",
+             "category":"DAS",
+             "publisher":"Tech World",
+             "rating":"5",
+             "copies":"9",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51iCpV-ex4L._SX322_BO1,204,203,200_.jpg",
+	     "year":"2016"
+    }
+    },
+    {
+    "isbn":"1547039296",
+        "details":{
+             "title":"Data Analytics",
+             "author":"Richard Dorsey",
+             "category":"DAS",
+             "publisher":"Richard Dorsey",
+             "rating":"4",
+             "copies":"10",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41Sy5GMfInL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2017"
+    }
+    },
+    {
+    "isbn":"1547456996",
+        "details":{
+             "title":"Data Analytics",
+             "author":"James Fahl",
+             "category":"DAS",
+             "publisher":"PaperBack",
+             "rating":"4",
+             "copies":"1",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51OcOQDNItL._SX331_BO1,204,203,200_.jpg",
+	     "year":"2017"
+    }
+    },
+    {
+    "isbn":"1514626939",
+        "details":{
+             "title":"Data Analytics",
+             "author":"Robert Keane",
+             "category":"DAS",
+             "publisher":"kindle Edition",
+             "rating":"4",
+             "copies":"1",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51CzAivwBlL._AC_US218_.jpg",
+	     "year":"2017"
+    }
+    },
+    {
+    "isbn":"1114626782",
+        "details":{
+             "title":"MySQL Explained",
+             "author":"Andrew Comeau",
+             "category":"MySQL",
+             "publisher":"OSTraining",
+             "rating":"5",
+             "copies":"7",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51nI%2BIfmC7L.jpg",
+	     "year":"2015"
+    }
+    },
+    {
+    "isbn":"0596004642",
+        "details":{
+             "title":"Learning MySQL",
+             "author":"Hugh E.Williams",
+             "category":"MySQL",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"20",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51fi1HhsQ-L._SX381_BO1,204,203,200_.jpg",
+	     "year":"2006"
+    }
+    },
+    {
+    "isbn":"1449314986",
+        "details":{
+             "title":"High Performance MySQL",
+             "author":"Baron Schwartz",
+             "category":"MySQL",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"5",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/51gSnIy841L._SX382_BO1,204,203,200_.jpg",
+	     "year":"2008"
+    }
+    },
+    {
+    "isbn":"0321833887",
+        "details":{
+             "title":"MySQL Developers Library",
+             "author":"Paul DuBois",
+             "category":"MySQL",
+             "publisher":"O'Reilly",
+             "rating":"5",
+             "copies":"2",
+	     "url":"https://images-na.ssl-images-amazon.com/images/I/41opWpwzRPL._SX389_BO1,204,203,200_.jpg",
+	     "year":"2013"
+    }
+    }
+]
+}

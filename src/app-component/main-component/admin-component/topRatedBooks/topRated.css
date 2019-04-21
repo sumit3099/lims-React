@@ -1,0 +1,57 @@
+ .put
+{
+    border: 1px solid #eee;
+    box-shadow:0px 0px 5px #ccc;
+    min-height: 33px !important;
+    margin-bottom: 0;
+    border-radius: 0;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 1s;
+}
+
+@-webkit-keyframes example {
+    from {opacity:0;}
+    to {opacity: 1;}
+}
+
+/* Standard syntax */
+@keyframes example {
+   
+    from {opacity:0;}
+    to {opacity: 1;}
+}
+
+.card-header .yoyo
+{
+    min-height: 33px !important;
+    margin-bottom: 0;
+    border-radius: 0;  
+}
+
+#collapseButton
+{
+    float:right;
+    padding-left:70px;
+    color:white;
+    text-decoration: none;
+}
+#collapseButton:hover{
+color: grey;
+}
+
+.viewMoreCard{
+    cursor: pointer;
+    /*background-color: #FFCB9C;*/
+}
+.viewMoreCard:hover{
+    border: 1px solid #eee;
+    box-shadow:0px 0px 20px #ccc;
+}
+/*#top_books_header{
+    position: -webkit-sticky;
+    position: sticky;
+    top:0;
+    z-index: 99999999;
+}*/

@@ -1,0 +1,143 @@
+ 
+
+.searchform
+{
+    text-indent: 50px;   
+}
+
+
+#mindtree{
+margin-top: 30px;
+color: white;
+font-size: 50px;
+}
+
+#button3
+{
+    margin-top: -10px;
+}
+
+#whatsnew
+{
+ color: white;   
+}
+
+
+
+#options
+{
+    color : white;
+}
+
+.input-field {
+    width: 50%;
+    padding-left: 100px
+}
+.label-icon {
+    width:50%;
+}
+
+
+
+
+
+
+
+
+input {
+	outline: none;
+}
+input[type=search] {
+	-webkit-appearance: textfield;
+	-webkit-box-sizing: content-box;
+	font-family: inherit;
+	font-size: 100%;
+}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+	display: none; 
+}
+
+
+input[type=search] {
+	background: #ededed url(https://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png) no-repeat 9px center;
+	border: solid 1px #ccc;
+	padding: 9px 10px 9px 32px;
+	width: 55px;
+	
+	-webkit-border-radius: 10em;
+	-moz-border-radius: 10em;
+	border-radius: 10em;
+	
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	transition: all .5s;
+}
+input[type=search]:focus {
+	width: 130px;
+	background-color: #fff;
+	border-color: #66CC75;
+	
+	-webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	-moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	box-shadow: 0 0 5px rgba(109,207,246,.5);
+}
+
+
+
+.inset {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  box-shadow:
+    inset 0 0 0 2px rgba(255,255,255,0.6), 
+    0 1px 1px rgba(0,0,0,0.1);
+  background-color: white !important;
+  z-index: 999;
+}
+
+.inset img {
+  border-radius: inherit;
+  width: inherit;
+  height: inherit;
+  display: block;
+  position: relative;
+  z-index: 998;
+}
+
+
+.btn-primary{
+    height: 40px;
+    width: 80px;
+    background: white;
+    margin: 5px;
+    float: left;
+    /*box-shadow: 0 0 1px #ccc;*/
+    -webkit-transition: all 0.5s ease-in-out;
+    border: 0px solid burlywood;
+    color: #fff;
+	/*border-color: white;*/
+	border-radius: 8px;
+
+}
+.btn-primary:hover{
+    -webkit-transform: scale(1.1);
+    background: #fff;
+border-color: #fff;
+	/*border: #fff;*/
+
+}
+
+#headerSticky
+{
+    position: fixed;
+    width:100%;
+    top:0;
+    z-index: 99999999;
+}
+@media only screen and (max-width: 900px){
+    #headerSticky{
+       position: static;
+       
+    }
+}

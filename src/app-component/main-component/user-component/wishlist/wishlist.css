@@ -1,0 +1,9 @@
+.wishedImage{
+    margin-left:-70px;
+}
+@media only screen and (max-width: 500px) {
+    .wishedImage {
+        width:300px;
+        padding-left: 60px;
+    }
+}

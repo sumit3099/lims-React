@@ -1,0 +1,236 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+  background: #f2f2f2;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.search {
+  width: 100%;
+  position: relative
+}
+
+.searchTerm {
+  float: left;
+  width: 100%;
+  border: 3px solid #F4A460;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: #F4A460;
+}
+
+.searchButton {
+  position: absolute;  
+  right: -50px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid #F4A460;
+  background: #F4A460;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.search-form .form-group {
+  float: right !important;
+  transition: all 0.35s, border-radius 0s;
+  width: 32px;
+  height: 32px;
+  background-color: #fff;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+}
+.search-form .form-group input.form-control {
+  padding-right: 20px;
+  border: 0 none;
+  background: transparent;
+  box-shadow: none;
+  display:block;
+}
+.search-form .form-group input.form-control::-webkit-input-placeholder {
+  display: none;
+}
+.search-form .form-group input.form-control:-moz-placeholder {
+  /* Firefox 18- */
+  display: none;
+}
+.search-form .form-group input.form-control::-moz-placeholder {
+  /* Firefox 19+ */
+  display: none;
+}
+.search-form .form-group input.form-control:-ms-input-placeholder {
+  display: none;
+}
+.search-form .form-group:hover,
+.search-form .form-group.hover {
+  width: 100%;
+  border-radius: 4px 25px 25px 4px;
+}
+.search-form .form-group span.form-control-feedback {
+  position: absolute;
+  top: -1px;
+  right: -2px;
+  z-index: 2;
+  display: block;
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  color: #F4A460;
+  left: initial;
+  font-size: 14px;
+}
+.setDropdown
+{
+  width:200px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right:10px;
+   
+}
+.setInput
+{
+  width:500px;
+ display: inline-block;
+}
+.setLabel
+{
+  margin-left: 450px;
+}
+.card
+{
+    border: 1px solid #eee;
+    color:rgb(97,65,38);
+    box-shadow:0 5px 5px #ccc;
+    margin:auto;
+}
+
+.card-text {
+  white-space: nowrap;
+  color:rgb(97,65,38);
+  width: 200px;
+  word-wrap: break-word;
+  display:block;
+  /*display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;  */
+  overflow:hidden;
+  text-overflow:ellipsis;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.each{
+  margin-bottom: 30px;
+}
+.text-block
+{
+    height:120px;
+}
+.card
+{
+    cursor: pointer;
+}
+
+.particular {
+  position: relative;
+}
+
+
+.overlay {
+  position: absolute;
+  top: 20%;
+  left: 0;
+  right: 0;
+  background-color:rgba(205,133,63,0.9);
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: 0.5s ease;
+}
+
+.particular:hover .overlay {
+  top: 0;
+  height: 80%;
+}
+
+.text {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.inset {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  box-shadow:
+    inset 0 0 0 2px rgba(255,255,255,0.6), 
+    0 1px 1px rgba(0,0,0,0.1);
+  background-color: transparent !important;
+  z-index: 999;
+}
+
+.inset img {
+  border-radius: inherit;
+  width: inherit;
+  height: inherit;
+  display: block;
+  position: relative;
+  z-index: 998;
+}
+
+.sortInline {
+    display: inline;
+}
+
+.sortInline .sortName {
+    font-weight: 500;
+    padding-right: 10px;
+}
+
+.sortInline .sortTypes {
+    display: inline-block;
+}
+
+.activeSortElement {
+    /*color: #2874f0;*/
+    color: brown;
+    cursor: default;
+    border-bottom: 2px solid;
+    font-weight: 500;
+}
+.sortInline .sortElement {
+  display: inline-block;
+  padding: 7px 0 4px 0;
+  margin: 0 10px;
+}
+.sortInline .sortElement .sortTypes{
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+}

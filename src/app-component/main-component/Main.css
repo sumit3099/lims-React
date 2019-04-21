@@ -1,0 +1,9 @@
+
+  .mainDiv {
+    margin-top: 30px;
+  }
+  @media only screen and (max-width: 900px){
+    .mainDiv{
+      margin-top: 0px;      
+    }
+}
